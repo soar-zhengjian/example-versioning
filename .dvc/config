@@ -1,0 +1,5 @@
+[cache]
+    dir = /data/dvc-cache
+    type = "symlink,copy"
+['remote "myremote"']
+    url = /data/my-dvc-storage
